@@ -1,0 +1,106 @@
+[
+    {
+        "capital": "5",
+        "email": "gepa@gmail.com",
+        "first_name": "Geeno",
+        "history": [
+            {
+                "email": "pipa@gmail.com",
+                "first_name": "Pinco",
+                "income": "-70",
+                "last_name": "Pallino",
+                "object": "food"
+            },
+            {
+                "email": "biba@gmail.com",
+                "first_name": "Billy",
+                "income": "-80",
+                "last_name": "Ballo",
+                "object": "dance lessons"
+            }
+        ],
+        "last_name": "Palladino"
+    },
+    {
+        "capital": "0",
+        "email": "maro@gmail.com",
+        "first_name": "Mario",
+        "history": [
+            {
+                "email": "pipa@gmail.com",
+                "first_name": "Pinco",
+                "income": "-70",
+                "last_name": "Pallino",
+                "object": "food"
+            },
+            {
+                "email": "biba@gmail.com",
+                "first_name": "Billy",
+                "income": "90",
+                "last_name": "Ballo",
+                "object": "dance shoes"
+            }
+        ],
+        "last_name": "Rossi"
+    },
+    {
+        "capital": "-10",
+        "email": "beAl@gmail.com",
+        "first_name": "Berto",
+        "history": [
+            {
+                "email": "pipa@gmail.com",
+                "first_name": "Pinco",
+                "income": "-70",
+                "last_name": "Pallino",
+                "object": "beverage"
+            }
+        ],
+        "last_name": "D'Almata"
+    },
+    {
+        "capital": "-1",
+        "email": "a",
+        "first_name": "a",
+        "history": [
+            {
+                "email": "pipa@gmail.com",
+                "first_name": "Pinco",
+                "income": "-150",
+                "last_name": "Pallino",
+                "object": "beverage and food"
+            }
+        ],
+        "last_name": "a"
+    },
+    {
+        "capital": "-12",
+        "email": "w",
+        "first_name": "a",
+        "history": [
+            {
+                "email": "pipa@gmail.com",
+                "first_name": "Pinco",
+                "income": "-100",
+                "last_name": "Pallino",
+                "object": "beer"
+            }
+        ],
+        "last_name": "a"
+    },
+    {
+        "capital": "-2",
+        "email": "w",
+        "first_name": "a",
+        "history": [
+            {
+                "email": "pipa@gmail.com",
+                "first_name": "Pinco",
+                "income": "-10",
+                "last_name": "Pallino",
+                "object": "beer"
+            }
+        ],
+        "last_name": "b"
+    }
+]
